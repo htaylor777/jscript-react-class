@@ -1,0 +1,12 @@
+{
+    "debug.javascript.pickAndAttachOptions": {
+    
+    },
+    "editor.fontSize": 20,
+    "debug.javascript.terminalOptions": {
+    
+    },
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.localEchoStyle": null,
+    "terminal.integrated.minimumContrastRatio": 7
+}

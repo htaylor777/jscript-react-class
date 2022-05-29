@@ -1,0 +1,102 @@
+/*
+Theme Name: javascriptclass
+Theme URI: https://ltwebdev.net
+Author: the WordPress team
+Author URI: https://wordpress.org/
+Description: Built on a solidly designed foundation, Twenty Twenty-Two embraces the idea that everyone deserves a truly unique website. The theme’s subtle styles are inspired by the diversity and versatility of birds: its typography is lightweight yet strong, its color palette is drawn from nature, and its layout elements sit gently on the page. The true richness of Twenty Twenty-Two lies in its opportunity for customization. The theme is built to take advantage of the Full Site Editing features introduced in WordPress 5.9, which means that colors, typography, and the layout of every single page on your site can be customized to suit your vision. It also includes dozens of block patterns, opening the door to a wide range of professionally designed layouts in just a few clicks. Whether you’re building a single-page website, a blog, a business website, or a portfolio, Twenty Twenty-Two will help you create a site that is uniquely yours.
+Requires at least: 5.9
+Tested up to: 5.9
+Requires PHP: 5.6
+Version: 1.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: javascriptclass
+*/
+
+
+
+body{color:blue}
+#displayjs1{  
+    border:0px;    
+    color:rgb(247, 230, 0);
+    height: 50px;
+    width: 500px;
+    display:block;
+    background-color:rgb(39, 82, 161);
+    border-radius:5px 5px 5px 5px;
+    font-size: 1em;
+    text-align: center;
+    }
+
+
+#displayjs2{  
+border:0px;    
+color:rgb(255, 251, 251);
+height: 50px;
+width: 500px;
+display:block;
+background-color:cornflowerblue;
+border-radius:5px 5px 5px 5px;
+font-size: 1em;
+text-align: center;
+}
+
+input[type=text] {
+  
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    background-color:rgb(199, 199, 199);
+    color:rgb(54, 72, 121);
+border-radius:5px 5px 5px 5px;
+font-size: 1.3em;
+  }
+
+  input::placeholder {
+    color: rgb(170, 170, 170);
+    font-size: 1.2em;
+    font-style: italic;
+  }
+
+
+  .button1 {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    border-radius:5px 5px 5px 5px;
+    display: inline;
+    font-size: 16px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  }
+  
+  .button1:hover {
+    box-shadow: 0 12px 16px 0 rgba(2, 129, 102, 0.24), 0 17px 50px 0 rgba(17, 176, 187, 0.19);
+  }
+
+
+  .button2 {
+    display: inline;
+    background-color: #1b2f46; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius:5px 5px 5px 5px;
+    font-size: 16px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  }
+  
+  .button2:hover{
+    box-shadow: 0 12px 16px 0 rgba(27, 114, 172, 0.24), 0 17px 50px 0 rgba(27, 136, 226, 0.19);
+  }
+
+  .mymenu {
+
+    color:green;
+  }

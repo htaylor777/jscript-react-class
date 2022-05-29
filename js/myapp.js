@@ -210,7 +210,6 @@ console.log("multiple objects in a var:------------------------------");
 console.log(peeps[1].addresses);
 console.log(peeps[0].lastname);
 console.log(peeps);
-
 //------------JQuery--------------------------------------------
 
 console.log("jQuery----------------------------");

@@ -18,4 +18,4 @@
             </head>
             <body>
             <?php wp_head();?>
-           JAVACRIPT CLASS
+           JAVACRIPT CLASS AND REACT
